@@ -1,6 +1,6 @@
 {
   "name": "nodejs-restapi-poc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NodeJS REST API poc",
   "main": "app.js",
   "scripts": {
